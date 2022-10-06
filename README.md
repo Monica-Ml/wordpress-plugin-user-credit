@@ -2,7 +2,7 @@
 
 Help to admin making one online bank in wordpress for users
 
-## How to instal"l:
+## How to install:
 - 1-Upload "management" folder to "wp-content\plugins\" at your wordpress website
 - 2-Import database tables from database\tables
 - 3-Or use wordpress admin panel -> Plugins » Add New » Upload Plugin button
